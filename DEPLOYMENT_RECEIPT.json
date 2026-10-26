@@ -1,0 +1,14 @@
+{
+  "project": "thomas-edison-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "5Je34CVgKCq3MrHVE8ojBPPTszJ25g7kNzM5UgUa8so7",
+  "vault_account": "HBeCHhUVrm75sGiazMHSUd1XMHgkTueWAUtdvVw4qBoD",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4enwhWGzwwrgovYST7pAhLAiUNsbvttqrWdbNY4TqqH8JHxswtNqKQTHTEPkPco76oHSF1U7cVZMuNmKJnMoqyVw",
+  "account_tx": "GahEAhfDRpZar27Rc3LvaSpVURCGHzUEj2SqVAhiJB3KDNbbVkKdHzxXGc7SvJk7gt2prTGbZ242sfGVC8ccQJp",
+  "mint_tx": "2daDnm3MoGpLv38ntb5XSD9ZXFeQ2w4TiZCgALdHg2RiFbue1hpM3Zj5uW6tknYN9DMNEFBQo2UGh6hKT76fLj6E",
+  "solana_explorer_mint": "https://explorer.solana.com/address/5Je34CVgKCq3MrHVE8ojBPPTszJ25g7kNzM5UgUa8so7?cluster=devnet",
+  "timestamp": "2026-10-26 17:00:46 UTC"
+}
